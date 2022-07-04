@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mark.jeffrey.rawlins@gmail.com
+	name = Mark J Rawlins
